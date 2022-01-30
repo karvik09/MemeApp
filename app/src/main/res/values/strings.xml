@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MemeApp</string>
+    <string name="retry">Retry</string>
+    <string name="something_went_wrong_message">Something went wrong</string>
+    <string name="no_meme_found">No Meme Found</string>
+</resources>
